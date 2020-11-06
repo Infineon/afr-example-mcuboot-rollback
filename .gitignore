@@ -1,0 +1,15 @@
+# Libraries
+libs/*
+!libs/*.lib
+
+# Build output
+/build/
+
+# Exports
+.mtbLaunchConfigs/
+.settings/
+.cproject
+.project
+
+# Misc
+/.vscode/

@@ -1,0 +1,4 @@
+[submodule "mcuboot"]
+	path = bootloader_cm0p/libs/mcuboot
+	url = https://github.com/JuulLabs-OSS/mcuboot
+	branch = cypress
